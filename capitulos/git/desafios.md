@@ -224,3 +224,7 @@ A ideia deste desafio é utilizar o comando "cherry-pick", que permite você tra
 3. Na nova branch, especifique que você deseja trabalhar a partir do conteúdo do seu terceiro commit realizado \(criado no passo 1\)
 4. Verifique no log do GIT como está seu ambiente de trabalho, para o completo entendimento do comando cherry-pick
 
+### Desafio 06: Desfazendo mudanças
+
+1. Faça um commit em seguida volte a branch para o estado anterior ao último commit.
+
